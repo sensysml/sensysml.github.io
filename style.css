@@ -412,10 +412,10 @@ a:visited { color: #205caa; }
 float: left;
 	display: block;
 	  text-indent: -9999px;
-	  width: 250px;
-	  height: 48px;
+	  width: 350px;
+	  height: 100px;
       background: url(/2019/sensysML.png);
-	  background-size: 250px 48px;
+	  background-size: 350px 100px;
 }
 
 .logosection {
