@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xl="http://www.w3.org/1999/xlink" version="1.1" xmlns="http://www.w3.org/2000/svg" viewBox="89 200 544 98" width="544" height="98">
+  <defs>
+    <font-face font-family="Chalkboard" font-size="68" panose-1="3 5 6 2 4 2 2 2 2 5" units-per-em="1000" underline-position="-146.96133" underline-thickness="22.099448" slope="0" x-height="525.96685" cap-height="712.7072" ascent="980.1178" descent="-282.86743" font-weight="700">
+      <font-face-src>
+        <font-face-name name="Chalkboard-Bold"/>
+      </font-face-src>
+    </font-face>
+  </defs>
+  <metadata> Produced by OmniGraffle 7.8.2 
+    <dc:date>2019-11-15 17:16:45 +0000</dc:date>
+  </metadata>
+  <g id="Canvas_1" fill-opacity="1" stroke-dasharray="none" stroke="none" stroke-opacity="1" fill="none">
+    <title>Canvas 1</title>
+    <rect fill="white" x="89" y="200" width="544" height="98"/>
+    <g id="Canvas_1: Layer 1">
+      <title>Layer 1</title>
+      <g id="Graphic_2">
+        <text transform="translate(94 205.54916)" fill="black">
+          <tspan font-family="Chalkboard" font-size="68" font-weight="700" fill="black" x=".29723757" y="67">SenSys-ML 2019</tspan>
+        </text>
+      </g>
+    </g>
+  </g>
+</svg>
