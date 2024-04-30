@@ -63,6 +63,13 @@
     position: relative;
     z-index: 1;
   }
+
+.dateitem {
+    color: #333333;
+    width: 200px;
+    margin-right: 20px;
+    float: left;
+}
   
   .site-nav {
     float: right;
